@@ -24,7 +24,7 @@ Machine Learning Algorithms:
 7) XGBoost: Optimized gradient boosting algorithm for high-performance and scalability.
 8) Logistic Regression: Linear model used for binary classification tasks.
 
-Deep learning Algorithms:
+Deep Learning Models:
 
-1) FNN
-2) 
+1) Artificial Neural Networks (ANN): A broad class of neural networks used for various tasks, including classification and regression.
+2) Feedforward Neural Networks (FNN): A type of ANN where connections between the nodes do not form a cycle, often used for classification and regression tasks.
