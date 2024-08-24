@@ -95,7 +95,7 @@ These steps ensure that the model is accurately trained and can effectively pred
 ## 📊 Results:
 
 ### Accuracy Score Graph: 
-<img src="https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc" width="800" height="600"/>
+<img src="https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc" width="600" height="400"/>
 
 
 - **Best Feature Selection Method:** The Extra Trees Classifier method was found to be the most effective for feature selection.
