@@ -24,9 +24,7 @@
 </h1>
 
 # PE_Malicious_File_Detection_Using-ML_and_DL
-
 ---
-
 ### :man_technologist: Overview :
 This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) and Deep Learning (DL) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
 
@@ -67,3 +65,7 @@ This repository contains a sophisticated solution for detecting malicious files 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuyashUtekar&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashUtekar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## :: Implementation :
