@@ -90,4 +90,7 @@ To execute the implementation of this project, follow these steps:
 
 These steps ensure that the model is accurately trained and can effectively predict malicious files, thus contributing to enhanced cybersecurity measures.
 
+---
 
+## 📊 Results:
+![image](https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc)
