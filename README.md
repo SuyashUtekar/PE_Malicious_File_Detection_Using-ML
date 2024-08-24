@@ -95,11 +95,12 @@ These steps ensure that the model is accurately trained and can effectively pred
 ## 📊 Results:
 
 ### Accuracy Score Graph: 
-<img src="https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc" width="600" height="400"/>
-
 
 - **Best Feature Selection Method:** The Extra Trees Classifier method was found to be the most effective for feature selection.
   - **Selected Features:** A total of 13 features were selected by the Extra Trees Classifier.
+  
+<img src="https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc" width="600" height="400"/>
+
 - **Top-Performing Model:** Using the features selected by the Extra Trees Classifier, the Random Forest model achieved the best performance among all the machine learning models tested.
   - **Accuracy:** The Random Forest model achieved an accuracy of **0.9945**.
   - **Cross-Validation:** The model was also validated using cross-validation, yielding a Mean Cross-Validation Score of **0.9841**.
