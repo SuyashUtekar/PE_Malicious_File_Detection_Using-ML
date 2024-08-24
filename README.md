@@ -33,12 +33,6 @@ PE File Analysis: Extracts and processes features from PE files to build a compr
 
 Feature Selection Methods:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-
-
 - :telescope: Extra Trees Classifier: Utilizes an ensemble of decision trees to rank features based on their importance.
 - :telescope: Correlation Analysis: Identifies and removes redundant features based on their correlation with the target variable.
 - :telescope: SelectKBest: Selects the top k features based on statistical tests.
