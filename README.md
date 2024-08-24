@@ -30,7 +30,7 @@
 ### :man_technologist: Overview :
 This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) and Deep Learning (DL) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
 
-:telescope: Feature Selection Methods:
+### :telescope: Feature Selection Methods:
 
 -  Extra Trees Classifier
 - Correlation Analysis
