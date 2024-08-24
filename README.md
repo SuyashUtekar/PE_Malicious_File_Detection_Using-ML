@@ -68,4 +68,4 @@ This repository contains a sophisticated solution for detecting malicious files 
 
 ---
 
-## :: Implementation :
+## :Rocket: Implementation :
