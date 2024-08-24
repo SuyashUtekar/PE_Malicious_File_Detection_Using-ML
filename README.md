@@ -25,31 +25,31 @@
 
 # PE_Malicious_File_Detection_Using-ML_and_DL
 
-## Overview
+-## :man_technologist: Overview
 This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) and Deep Learning (DL) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
 
-### Feature Selection Methods:
+-### :telescope: Feature Selection Methods:
 
-- :telescope: Extra Trees Classifier
-- :telescope: Correlation Analysis
-- :telescope: SelectKBest
-- :telescope: Principal Component Analysis (PCA)
+-  Extra Trees Classifier
+- Correlation Analysis
+- SelectKBest
+- Principal Component Analysis (PCA)
 
-### Machine Learning Algorithms:
+-### :seedling: Machine Learning Algorithms:
 
-- :seedling: Decision Tree
-- :seedling: Random Forest
-- :seedling: AdaBoost
-- :seedling: Gradient Boosting
-- :seedling: Gaussian Naive Bayes (GNB)
-- :seedling: K-Nearest Neighbors (KNN)
-- :seedling: XGBoost
-- :seedling: Logistic Regression
+- Decision Tree
+- Random Forest
+- AdaBoost
+- Gradient Boosting
+- Gaussian Naive Bayes (GNB)
+- K-Nearest Neighbors (KNN)
+- XGBoost
+- Logistic Regression
 
-### Deep Learning Models:
+-### :zap: Deep Learning Models:
 
-- :zap: Artificial Neural Networks (ANN)
-- :zap: Feedforward Neural Networks (FNN)
+- Artificial Neural Networks (ANN)
+- Feedforward Neural Networks (FNN)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
