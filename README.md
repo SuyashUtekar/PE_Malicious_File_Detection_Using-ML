@@ -70,4 +70,24 @@ This repository contains a sophisticated solution for detecting malicious files 
 
 ## 🚀 Implementation :
 
+To execute the implementation of this project, follow these steps:
+
+1. **Run All Cells in `main_implementation.ipynb`:**
+   - This Jupyter Notebook contains the complete workflow for the project, including:
+     - **Data Preprocessing:** Prepare the data for analysis by cleaning and normalizing it.
+     - **Feature Selection:** Evaluate and apply the feature selection methods listed above (Extra Trees Classifier, Correlation Analysis, SelectKBest, PCA).
+     - **Model Training:** Train all the ML models mentioned above (Decision Tree, Random Forest, etc.) using each feature selection method.
+     - **Performance Evaluation:** Determine which feature selection method allows each model to perform the best.
+
+2. **Save the Results:**
+   - After determining the best-performing feature selection method for each model, create a dataset with those features.
+   - Save the dataset to a file named `features.pkl`.
+   - Save the best-performing model to a file named `model.pkl`.
+
+3. **Final Implementation:**
+   - In the last cell of the Notebook, you can test the system by providing a file to the model.
+   - The model will predict whether the given file is malicious or not, based on the trained models and selected features.
+
+These steps ensure that the model is accurately trained and can effectively predict malicious files, thus contributing to enhanced cybersecurity measures.
+
 
