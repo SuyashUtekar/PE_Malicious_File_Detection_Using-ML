@@ -57,6 +57,7 @@ This repository contains a sophisticated solution for detecting malicious files 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original-wordmark.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -107,4 +108,26 @@ These steps ensure that the model is accurately trained and can effectively pred
   
 These results underscore the effectiveness of the Extra Trees Classifier for feature selection and demonstrate the high accuracy and reliability of the Random Forest model in detecting malicious files.
 
+## 📝 Conclusion
+
+This project focused on detecting malicious files using advanced Machine Learning (ML) and Deep Learning (DL) techniques. The primary objectives were to:
+
+1. **Optimize Feature Selection:** The Extra Trees Classifier emerged as the most effective feature selection method, successfully identifying 13 key features that significantly enhance model performance.
+
+2. **Model Performance:** Among the various models tested, the Random Forest model, when trained on the features selected by the Extra Trees Classifier, demonstrated the highest accuracy. The Random Forest achieved an impressive accuracy of **0.9945** and a Mean Cross-Validation Score of **0.9841**.
+
+3. **Implementation:** The project successfully implemented a comprehensive workflow that includes data preprocessing, feature selection, model training, and final predictions. The final implementation enables accurate detection of malicious files, contributing to enhanced cybersecurity measures.
+
+Overall, the integration of effective feature selection and robust machine learning models has led to a highly accurate and reliable system for malicious file detection. The results underline the importance of selecting the right features and models to achieve high performance in cybersecurity applications.
+
+## 🚀 Future Work
+
+- **Enhanced Feature Selection:** Explore additional feature selection techniques and their impact on model performance.
+- **Model Optimization:** Investigate more advanced models and hyperparameter tuning to further improve accuracy.
+- **Deployment:** Consider deploying the model into a production environment for real-time malicious file detection.
+- **User Interface:** Develop a user-friendly interface for easier interaction and file submission.
+
+## 🙏 Acknowledgments
+
+- **Libraries and Tools:** Acknowledgment of libraries and tools used, such as TensorFlow, Keras, and scikit-learn.
 
