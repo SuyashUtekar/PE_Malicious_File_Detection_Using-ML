@@ -93,4 +93,17 @@ These steps ensure that the model is accurately trained and can effectively pred
 ---
 
 ## 📊 Results:
-![image](https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc)
+
+### Accuracy Score Graph: 
+<img src="https://github.com/user-attachments/assets/9069b8b0-4cca-4184-90a5-884d14aaabcc" width="300" height="300"/>
+
+
+- **Best Feature Selection Method:** The Extra Trees Classifier method was found to be the most effective for feature selection.
+  - **Selected Features:** A total of 13 features were selected by the Extra Trees Classifier.
+- **Top-Performing Model:** Using the features selected by the Extra Trees Classifier, the Random Forest model achieved the best performance among all the machine learning models tested.
+  - **Accuracy:** The Random Forest model achieved an accuracy of **0.9945**.
+  - **Cross-Validation:** The model was also validated using cross-validation, yielding a Mean Cross-Validation Score of **0.9841**.
+  
+These results underscore the effectiveness of the Extra Trees Classifier for feature selection and demonstrate the high accuracy and reliability of the Random Forest model in detecting malicious files.
+
+
