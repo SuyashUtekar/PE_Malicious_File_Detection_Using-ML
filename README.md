@@ -37,7 +37,7 @@ This repository contains a sophisticated solution for detecting malicious files 
 - SelectKBest
 - Principal Component Analysis (PCA)
 
-:seedling: Machine Learning Algorithms:
+### :seedling: Machine Learning Algorithms:
 
 - Decision Tree
 - Random Forest
@@ -48,7 +48,7 @@ This repository contains a sophisticated solution for detecting malicious files 
 - XGBoost
 - Logistic Regression
 
-:zap: Deep Learning Models:
+### :zap: Deep Learning Models:
 
 - Artificial Neural Networks (ANN)
 - Feedforward Neural Networks (FNN)
@@ -60,3 +60,8 @@ This repository contains a sophisticated solution for detecting malicious files 
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuyashUtekar&theme=dark&background=000000)](https://git.io/streak-stats)
