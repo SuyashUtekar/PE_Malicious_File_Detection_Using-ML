@@ -28,17 +28,14 @@
 ## Overview
 This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) and Deep Learning (DL) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
 
-Features
-PE File Analysis: Extracts and processes features from PE files to build a comprehensive dataset for training and evaluation.
-
-Feature Selection Methods:
+### Feature Selection Methods:
 
 - :telescope: Extra Trees Classifier: Utilizes an ensemble of decision trees to rank features based on their importance.
 - :telescope: Correlation Analysis: Identifies and removes redundant features based on their correlation with the target variable.
 - :telescope: SelectKBest: Selects the top k features based on statistical tests.
 - :telescope: Principal Component Analysis (PCA): Reduces dimensionality by transforming features into a lower-dimensional space while preserving variance.
 
-Machine Learning Algorithms:
+### Machine Learning Algorithms:
 
 - :seedling: Decision Tree: A tree-based algorithm that makes decisions based on feature splits.
 - :seedling: Random Forest: An ensemble of decision trees that improves classification accuracy through averaging.
@@ -49,7 +46,7 @@ Machine Learning Algorithms:
 - :seedling: XGBoost: Optimized gradient boosting algorithm for high-performance and scalability.
 - :seedling: Logistic Regression: Linear model used for binary classification tasks.
 
-Deep Learning Models:
+### Deep Learning Models:
 
 - :zap: Artificial Neural Networks (ANN): A broad class of neural networks used for various tasks, including classification and regression.
 - :zap: Feedforward Neural Networks (FNN): A type of ANN where connections between the nodes do not form a cycle, often used for classification and regression tasks.
