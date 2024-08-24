@@ -30,23 +30,23 @@ This repository contains a sophisticated solution for detecting malicious files 
 
 ### Feature Selection Methods:
 
-- :telescope: Extra Trees Classifier: Utilizes an ensemble of decision trees to rank features based on their importance.
-- :telescope: Correlation Analysis: Identifies and removes redundant features based on their correlation with the target variable.
-- :telescope: SelectKBest: Selects the top k features based on statistical tests.
-- :telescope: Principal Component Analysis (PCA): Reduces dimensionality by transforming features into a lower-dimensional space while preserving variance.
+- :telescope: Extra Trees Classifier
+- :telescope: Correlation Analysis
+- :telescope: SelectKBest
+- :telescope: Principal Component Analysis (PCA)
 
 ### Machine Learning Algorithms:
 
-- :seedling: Decision Tree: A tree-based algorithm that makes decisions based on feature splits.
-- :seedling: Random Forest: An ensemble of decision trees that improves classification accuracy through averaging.
-- :seedling: AdaBoost: Boosting algorithm that combines weak classifiers to create a strong classifier.
-- :seedling: Gradient Boosting: Boosting technique that builds models sequentially to correct errors made by previous models.
-- :seedling: Gaussian Naive Bayes (GNB): Probabilistic classifier based on Bayes' theorem with strong independence assumptions.
-- :seedling: K-Nearest Neighbors (KNN): Classifies instances based on the majority label of their k-nearest neighbors.
-- :seedling: XGBoost: Optimized gradient boosting algorithm for high-performance and scalability.
-- :seedling: Logistic Regression: Linear model used for binary classification tasks.
+- :seedling: Decision Tree
+- :seedling: Random Forest
+- :seedling: AdaBoost
+- :seedling: Gradient Boosting
+- :seedling: Gaussian Naive Bayes (GNB)
+- :seedling: K-Nearest Neighbors (KNN)
+- :seedling: XGBoost
+- :seedling: Logistic Regression
 
 ### Deep Learning Models:
 
-- :zap: Artificial Neural Networks (ANN): A broad class of neural networks used for various tasks, including classification and regression.
-- :zap: Feedforward Neural Networks (FNN): A type of ANN where connections between the nodes do not form a cycle, often used for classification and regression tasks.
+- :zap: Artificial Neural Networks (ANN)
+- :zap: Feedforward Neural Networks (FNN)
