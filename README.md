@@ -27,17 +27,17 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: Overview :
 This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) and Deep Learning (DL) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
 
-:telescope: ### Feature Selection Methods:
+:telescope: Feature Selection Methods:
 
 -  Extra Trees Classifier
 - Correlation Analysis
 - SelectKBest
 - Principal Component Analysis (PCA)
 
--### :seedling: Machine Learning Algorithms:
+:seedling: Machine Learning Algorithms:
 
 - Decision Tree
 - Random Forest
@@ -48,7 +48,7 @@ This repository contains a sophisticated solution for detecting malicious files 
 - XGBoost
 - Logistic Regression
 
--### :zap: Deep Learning Models:
+:zap: Deep Learning Models:
 
 - Artificial Neural Networks (ANN)
 - Feedforward Neural Networks (FNN)
