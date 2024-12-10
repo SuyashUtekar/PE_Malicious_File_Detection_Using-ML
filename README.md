@@ -23,10 +23,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# PE_Malicious_File_Detection_Using-ML_and_DL
+# PE_Malicious_File_Detection_Using-ML
 ---
 ### :man_technologist: Overview :
-This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) and Deep Learning (DL) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
+This repository contains a sophisticated solution for detecting malicious files using Machine Learning (ML) techniques. The project leverages various algorithms to identify potentially harmful files and improve cybersecurity measures.
 
 ### :telescope: Feature Selection Methods:
 
@@ -45,11 +45,6 @@ This repository contains a sophisticated solution for detecting malicious files 
 - K-Nearest Neighbors (KNN)
 - XGBoost
 - Logistic Regression
-
-### :zap: Deep Learning Models:
-
-- Artificial Neural Networks (ANN)
-- Feedforward Neural Networks (FNN)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -108,7 +103,7 @@ These results underscore the effectiveness of the Extra Trees Classifier for fea
 
 ## 📝 Conclusion
 
-This project focused on detecting malicious files using advanced Machine Learning (ML) and Deep Learning (DL) techniques. The primary objectives were to:
+This project focused on detecting malicious files using advanced Machine Learning (ML) techniques. The primary objectives were to:
 
 1. **Optimize Feature Selection:** The Extra Trees Classifier emerged as the most effective feature selection method, successfully identifying 13 key features that significantly enhance model performance.
 
